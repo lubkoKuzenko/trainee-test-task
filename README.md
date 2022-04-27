@@ -40,15 +40,15 @@ Each task should have `name`, `progress`.
 
 Clicking on each task should show `+` and `-` buttons that is changing progress in this task. Also `edit` and `delete` buttons with ability to edit and delete in accordance.
 
-If task progress is 100% remove task from `Tasks` page and it should apear on `Completed` page.
+If task progress is 100% remove task from this page and it should apear on `Completed` page.
 
-Example mock
+<i>Example:</i>
 
 <img src="./assets/example.png" />
 
 ### Completed
 
-This page should have list of completed tasks. Clicking on task user should see option to start this task again. Task should disapear from this page and be available in `Tasks` page.
+This page should have list of completed tasks (100% progress). Clicking on task user should see option to start this task again. Task should disapear from this page and be available in `Tasks` page.
 
 ### Statistics
 
