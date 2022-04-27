@@ -31,7 +31,6 @@ Example:
 
 Should have 4 menu items (`Tasks`, `Completed`, `Statistics`, `Profile`).
 
-
 ### Tasks
 
 This page should have list of available tasks and ability to add new.
