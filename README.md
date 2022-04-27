@@ -20,7 +20,7 @@ Create application with 3 sections
 - `content` should have content specific for each page.
 - `footer` should have application navigation. Make footer stick to bottom of page. 
 
-<img src="./assets/header-content-footer.jpeg.crdownload" />
+<img src="./assets/header-content-footer.jpeg.crdownload" width="50%" />
 
 ### Footer
 
