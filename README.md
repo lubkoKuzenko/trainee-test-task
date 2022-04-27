@@ -30,3 +30,30 @@ Example:
 <img src="https://lh3.googleusercontent.com/u9FCm5Z3gyvRONle-rPbuZ_Gq66V36BjlB2mDuSu36h425Pk36v8a0Tio5RBIwJC1D5yPxYIe8hueD1Khifv-xGtrsIW0C2qiuJxkg=w1064-v0" />
 
 Should have 4 menu items (`Tasks`, `Completed`, `Statistics`, `Profile`).
+
+
+### Tasks
+
+This page should have list of available tasks and ability to add new tasks.
+
+Each task should have `name`, `progress`.
+
+Clicking on each task should show `+` and `-` buttons that is changing progress in this task. Also `edit` and `delete` buttons with ability to edit and delete in accordance.
+
+If task progress is 100% remove task from `Tasks` page and it should apear on `Completed` page.
+
+Example mock
+
+<img src="./assets/example.png" />
+
+### Completed
+
+This page should have list of completed tasks. Clicking on task user should see option to start this task again. Task should disapear from this page and be available in `Tasks` page.
+
+### Statistics
+
+Render `Bar chart` with any data on this page. Data value should be from 0-100. When data value is 1-50 bar should have `green` color. In case when data value is 51-100 bar should have `red` color.
+
+### Profile
+
+Implement page with your own CV. Provide short information about you, your education, experiance. Implement in any design and structure.
