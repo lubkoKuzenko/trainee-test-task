@@ -34,9 +34,9 @@ Should have 4 menu items (`Tasks`, `Completed`, `Statistics`, `Profile`).
 
 ### Tasks
 
-This page should have list of available tasks and ability to add new tasks.
+This page should have list of available tasks and ability to add new.
 
-Each task should have `name`, `progress`.
+Each task should have `name`, `progress`. In default state only this fields should be visible on view.
 
 Clicking on each task should show `+` and `-` buttons that is changing progress in this task. Also `edit` and `delete` buttons with ability to edit and delete in accordance.
 
