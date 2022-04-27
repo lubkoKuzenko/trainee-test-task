@@ -1,6 +1,6 @@
 # Test task for Trainee Frot-End developer
 
-<img src="./assets/Frontend.png" />
+<img src="./assets/Frontend.png" width="100%" />
 
 ## Introduction
 The purpose of this exercise is for the developer to exhibit his familiarity with frontend technologies, programming patterns and to provide with a sample of what clean and reusable code means to the candidate.
